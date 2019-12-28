@@ -1,2 +1,3 @@
-# ee_resources
-Collection of online resources for electrical engineers
+# Online resources for electrical engineers
+
+1. [Planet Analog](https://www.planetanalog.com/) 
