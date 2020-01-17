@@ -11,3 +11,4 @@
 ## Altium
 
 1. [Starter Guide](https://www.altium.com/documentation/altium-designer/from-idea-to-manufacture-driving-a-pcb-design-through-altium-designer?version=19.0)
+1. [FEDEVEL Academy](https://academy.fedevel.com/)
